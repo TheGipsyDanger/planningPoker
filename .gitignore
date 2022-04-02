@@ -1,0 +1,9 @@
+node_modules
+.expo/*
+.expo-shared/*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
